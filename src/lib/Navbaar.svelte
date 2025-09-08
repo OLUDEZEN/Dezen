@@ -5,7 +5,8 @@
   let navLinks = [
     { name: "Home", href: "/" },
     { name: "Blogs", href: "/blogs" },
-    { name: "Admin", href: "/admin" }
+    { name: "Admin", href: "/admin" },
+    { name: "Music", href: "/music" }
   ];
 
   let searchQuery = "";

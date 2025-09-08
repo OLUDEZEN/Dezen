@@ -132,15 +132,18 @@
   <!-- Admin Dashboard -->
   <div class="min-h-screen bg-[#FFF2E6] flex flex-col">
     <!-- Header -->
-    <header class="p-6 bg-[#FFE6D9] shadow flex justify-between items-center">
-      <h1 class="text-2xl font-bold text-gray-800">Admin Dashboard</h1>
+      <h1 class="text-3xl sm:text-4xl lg:text-5xl font-extrabold text-center mb-8 text-pink-700">
+       Admin Dashboard</h1>
+      
+  
+    <div class="flex justify-end pr-8">
       <button
         on:click={savePost}
-        class="bg-pink-500 hover:bg-pink-600 text-white px-6 py-2 rounded-lg font-semibold transition"
+        class="bg-pink-500 hover:bg-pink-600 text-white px-10 py-2 rounded-lg text-l font-semibold transition"
       >
-        Save Post
+        Post
       </button>
-    </header>
+    </div>
 
     <!-- Content -->
     <div class="flex-1 p-6 overflow-y-auto">

@@ -1,6 +1,10 @@
 <script>
   // Home page has no blog fetching logic now
 </script>
+<svelte:head>
+  <title>Dezen's World </title>
+  <meta name="description" content="Read inspiring blogs by Dezen Sherpa on art, poetry, travel, and more." />
+</svelte:head>
 
 <section class="relative flex flex-col items-center justify-center text-center min-h-[80vh] px-4 sm:px-6 lg:px-20">
   <!-- Title -->
