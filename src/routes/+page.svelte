@@ -3,7 +3,7 @@
 </script>
 <svelte:head>
   <title>Dezen's World </title>
-  <meta name="description" content="Read inspiring blogs by Dezen Sherpa on art, poetry, travel, and more." />
+  <meta name="description" content="Offical webpage of Dezen Sherpa." />
 </svelte:head>
 
 <section class="relative flex flex-col items-center justify-center text-center min-h-[80vh] px-4 sm:px-6 lg:px-20">
@@ -22,7 +22,7 @@
 
   <!-- Short About -->
   <p class="mt-3 sm:mt-4 max-w-full sm:max-w-2xl text-base sm:text-lg text-gray-600 px-2 sm:px-0 leading-relaxed">
-    I'm Dezen Sherpa, a B.A. (Honours) English graduate with a deep interest in <strong>Psychology, Art, Travelling, and Fashion</strong>.
+    <strong>Dezen Sherpa-</strong> a B.A. (Honours) English graduate with a deep interest in <strong>Psychology, Art, Travelling, and Fashion</strong>.
     I paint, write poems, travel, and create inspiring content. With my skills in videography and editing,
     I bring stories to life through visuals and words.
   </p>
