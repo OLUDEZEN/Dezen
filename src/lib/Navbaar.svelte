@@ -6,7 +6,8 @@
     { name: "Home", href: "/" },
     { name: "Blogs", href: "/blogs" },
     { name: "Admin", href: "/admin" },
-    { name: "Music", href: "/music" }
+    { name: "Music", href: "/music" },
+    { name: "Habit Tracker", href: "/habit_tracker" }
   ];
 
   let searchQuery = "";
