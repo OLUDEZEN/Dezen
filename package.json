@@ -43,5 +43,11 @@
 		"chart.js": "^4.5.0",
 		"quill": "^2.0.3",
 		"svelte-calendar": "^3.1.6"
+	},
+	
+	"resolutions": {
+		"@rollup/rollup": "3.30.0"
 	}
+	
+
 }
